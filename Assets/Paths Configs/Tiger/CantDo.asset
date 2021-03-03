@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b900e724a9d83c479738e71c08244e5, type: 3}
+  m_Name: CantDo
+  m_EditorClassIdentifier: 
+  sentence: {fileID: 6106024190982033005, guid: 7b25e60906fb58d4b901a2f333af92f5,
+    type: 3}
+  path: {fileID: 3956890925636764066, guid: 3fa8e1b40be5a3c49850efc76112374c, type: 3}
+  timeBetweenSpawn: 0.5
+  spawnRandomFactor: 0.3
+  moveSpeed: 3
